@@ -1,4 +1,4 @@
-This is an **example** README.md file
+This is an *example* README.md file
 
 ![220px-Shakespeare](figures/220px-Shakespeare.webp)
 
